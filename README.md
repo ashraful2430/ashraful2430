@@ -20,6 +20,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam Ashik</h1>
 <h3 align="center">MERN Stack Enthusiast | Coding and Creating Every Day 🌐</h3>
+<img src='https://raw.githubusercontent.com/ashraful2430/ashraful2430/main/image/ready_to_get_hired_(1)_upscaled.png' alt='https://raw.githubusercontent.com/ashraful2430/ashraful2430/main/image/ready_to_get_hired_(1)_upscaled.png'></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful2430&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful2430" /> </p>
 
