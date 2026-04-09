@@ -1,29 +1,93 @@
-<img src='https://raw.githubusercontent.com/ashraful2430/ashraful2430/main/image/ready_to_get_hired_(1)_upscaled.png' alt='https://raw.githubusercontent.com/ashraful2430/ashraful2430/main/image/ready_to_get_hired_(1)_upscaled.png'></img>
+<img src="https://raw.githubusercontent.com/ashraful2430/ashraful2430/main/image/ready_to_get_hired_(1)_upscaled.png" />
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam Ashik</h1>
-<h3 align="center">MERN Stack Enthusiast | Coding and Creating Every Day 🌐</h3>
+<h3 align="center">DevOps Engineer | Cloud • CI/CD • Automation • Monitoring</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful2430&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful2430" /> </p>
-
-- 🔭 I’m currently working on **on honing my MERN stack skills and building small-scale web applications to apply and reinforce my learning.**
-
-- 👯 I’m looking to collaborate on **entry-level projects that offer opportunities to grow and learn alongside experienced developers.**
-
-- 🤝 I’m looking for help with **mastering best practices in code organization, debugging, and efficient utilization of MERN stack technologies.**
-
-- 📫 How to reach me **Connect with me on <a href="https://www.linkedin.com/in/ashraful-islam-ashik-7085a22a0/" target="_blank">Linkedin</a> or drop me an email at ashrafulislamashik960@gmail.com**
-
-- ⚡ Fun fact **I love exploring new coding challenges and experimenting with different coding languages during my free time.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashraful-islam-ashik-7085a22a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashraful-islam-ashik-7085a22a0/" height="30" width="40" /></a>
-<a href="https://fb.com/ashrafulislam.ashik.5473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafulislam.ashik.5473" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashraful2430&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cloud.githubusercontent.com/assets/5011883/14021318/e60245da-f1d2-11e5-82f9-1338a801ddc2.png" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/j459zSr/idv3zwm-Si-Y.jpg" alt="cypress" width="40" height="40"/> </a> </p>
+---
 
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful2430&show_icons=true&locale=en&layout=compact" alt="ashraful2430" /></p>
+## 🚀 About Me
 
-<p align='center'><img align='center' src='https://github-readme-streak-stats.herokuapp.com?user=ashraful2430&theme=shadow-purple&border_radius=4' alt='https://git.io/streak-stats'></img></p>
+* 🔧 DevOps Engineer with hands-on experience in **Docker, Kubernetes, CI/CD, AWS, and Monitoring**
+* ⚙️ Building scalable systems, automating workflows, and improving deployment pipelines
+* 🌐 Strong foundation in **MERN stack development**
+* 📈 Focused on **reliability, performance, and production-grade systems**
+* 🧠 Continuously learning and applying **real-world DevOps practices**
+
+---
+
+## 🛠️ DevOps & Cloud Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,linux,nginx,githubactions,git" />
+</p>
+
+* Docker (multi-stage builds, container optimization)
+* Kubernetes (K8s, EKS, networking, debugging)
+* CI/CD (GitHub Actions)
+* Infrastructure as Code (Terraform, Ansible)
+* Linux & Shell Scripting
+* Nginx Reverse Proxy
+* Monitoring: Prometheus, Grafana
+
+---
+
+## 💻 Development Stack (MERN)
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,tailwind" />
+</p>
+
+* React / Next.js
+* Node.js / Express
+* MongoDB
+* TypeScript / JavaScript
+* Tailwind CSS
+
+---
+
+## 📊 DevOps Projects
+
+* 🔹 CI/CD Pipeline with GitHub Actions + Docker
+* 🔹 Multi-container deployment using Docker Compose + Nginx
+* 🔹 Monitoring setup with Prometheus & Grafana
+* 🔹 Node.js API with metrics (`/metrics`) for observability
+* 🔹 AWS deployment (EC2, EKS basics)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ashraful-islam-ashik-7085a22a0/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:ashrafulislamashik960@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+<a href="https://github.com/ashraful2430" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy debugging production issues more than writing code 😄
+(That’s when real engineering happens.)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2430&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful2430&show_icons=true&locale=en&layout=compact" />
+</p>
