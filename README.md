@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ashraful2430/ashraful2430/main/image/ready_to_get_hired_(1)_upscaled.png" />
+<img src="https://i.ibb.co/ks5zjpCV/Chat-GPT-Image-Apr-10-2026-10-05-39-PM.png" />
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam Ashik</h1>
 <h3 align="center">DevOps Engineer | Cloud • CI/CD • Automation • Monitoring</h3>
