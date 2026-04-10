@@ -82,12 +82,35 @@ I enjoy debugging production issues more than writing code 😄
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2430&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2430&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful2430&show_icons=true&locale=en&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=ashraful2430&theme=radical" alt="Ashraful's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful2430&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ashraful's top languages" />
+</p>
+
+---
+
+## 📌 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashraful2430&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashraful2430&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashraful2430&theme=radical" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashraful2430&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashraful2430&theme=radical&utcOffset=6" alt="Productive time" />
 </p>
